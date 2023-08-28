@@ -31,12 +31,6 @@ To run entire project from scratch, the order of execution is:
 
 Brief description of scripts.
 
-DATA COLLECTION:
-
-nist_scraper.py - scrapes training dataset from NIST.
-sdbs_scraper.py - scrapes training dataset from SDBS.
-sdbs_ids.py - scrapes IDs of molecules to be used for sdbs_scraper.py.
-
 DATA PROCESSING:
 
 preprocessing.py - performs preprocessing of the dataset to be used for model training.
